@@ -1,13 +1,4 @@
 # docker
 testing 2
-##### change on branch master A
-##### change on branch master A2 (check with Kraken)
-##### change on branch master A3 (check with Kraken)
-##### change on branch dev - A
-##### change on branch dev - B
-Darn - why is this .md merge playing up?
-change on local dev
-##### change on remote master 2
-##### making more local changes - and another commit
-## interesting - making this change on github master directly..
-### local on master
+### testing the Kraken Pro!
+#### now using profile 'Marcel'
